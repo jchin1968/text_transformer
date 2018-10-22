@@ -9,8 +9,6 @@
   ],
   "type": "drupal-module",
   "minimum-stability": "dev",
-  "require": {
-    "jchin1968/text_transformer.git": "*"
-  }
+  "require": {}
 }
 
