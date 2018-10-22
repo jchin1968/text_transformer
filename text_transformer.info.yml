@@ -1,0 +1,4 @@
+name: Text Transformer
+description: 'Example module for automated testing presentation'
+type: module
+core: 8.x

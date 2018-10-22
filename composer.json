@@ -1,0 +1,16 @@
+{
+  "name": "jchin1968/text_transformer",
+  "description": "Text transformer module",
+  "authors": [
+    {
+      "name": "Joseph Chin",
+      "email": "jchin1968@gmail.com"
+    }
+  ],
+  "type": "drupal-module",
+  "minimum-stability": "dev",
+  "require": {
+    "jchin1968/text_transformer.git": "*"
+  }
+}
+

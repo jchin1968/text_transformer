@@ -1,0 +1,20 @@
+<?php
+
+/**
+ * @file
+ * A simple module for transforming text.
+ *
+ * This module was developed for training purposes on the following Drupal 8
+ * developer topics: Unit testing, annotation plugins and custom fields.
+ */
+
+/**
+ * Implements hook_theme().
+ */
+function text_transformer_theme($existing, $type, $theme, $path) {
+  return [
+    'text_transformer' => [
+      'variables' => ['original' => NULL, 'type' => NULL, 'transformed' => NULL],
+    ],
+  ];
+}

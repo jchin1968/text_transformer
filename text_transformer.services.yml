@@ -1,0 +1,4 @@
+services:
+  plugin.manager.text_transformer:
+    class: Drupal\text_transformer\TextTransformerManager
+    parent: default_plugin_manager
