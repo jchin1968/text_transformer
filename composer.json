@@ -8,8 +8,6 @@
     }
   ],
   "type": "drupal-module",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
   "require": {}
 }
 
